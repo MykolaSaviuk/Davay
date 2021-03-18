@@ -1,9 +1,11 @@
 .box {
-    width: 800px;
+    width: 500px;
     height: 200px;
     background: #FAFAFA;
+    padding: 20px;
     border: 2px solid silver;
-    padding: 10px;
+    border-bottom:4px solid #0645ad;
+
 
 }
 
@@ -13,10 +15,51 @@
 }
 
 .box2 {
-    width: 800px;
-    height: 700px;
+    width: 500px;
+    height: 473px;
     background: #FAFAFA;
+    padding: 20px;
+    border: 2px solid silver;
+    border-bottom:4px solid #0645ad;
+
+
+}
+
+.box3 {
+    width: 100px;
+    height: 20px;
+    background: #FAFAFA;
+    padding: 10px 10px;
+    display: flex;
+    align-content: center;
+    border: 2px solid silver;
+}
+
+.box4 {
+    width: 500px;
+    height: 200px;
+    background: #FAFAFA;
+    padding: 20px;
     border: 2px solid silver;
 
+}
+
+.box5 {
+    width: 500px;
+    height: 300px;
+    background: #FAFAFA;
+    padding: 20px;
+    border: 2px solid silver;
+    border-bottom:4px solid #0645ad;
+
+}
+
+.box6 {
+    width: 500px;
+    height: 492px;
+    background: #FAFAFA;
+    padding: 20px;
+    border: 2px solid silver;
+    border-bottom:4px solid #0645ad;
 
 }
