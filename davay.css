@@ -1,0 +1,22 @@
+.box {
+    width: 800px;
+    height: 200px;
+    background: #FAFAFA;
+    border: 2px solid silver;
+    padding: 10px;
+
+}
+
+.color {
+    color: #0645ad;
+
+}
+
+.box2 {
+    width: 800px;
+    height: 700px;
+    background: #FAFAFA;
+    border: 2px solid silver;
+
+
+}
